@@ -1,0 +1,27 @@
+{
+  "id": "438e32a3-5d18-496e-a2a8-a56e059e17ad",
+  "name": "TITRampuixa",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "target": "OnPrem",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://TITRampuixa.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
